@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: rgb(61, 57, 57)
+}
+
 a {
     text-decoration: none;
     display: inline-block;
@@ -62,7 +66,7 @@ ul,li {
     height: 55px;
     border-radius: 50%;
     border: 5px solid silver;
-    margin-top: 555px;
+    margin-top: 557px;
     margin-left: 545px;
 }
 
