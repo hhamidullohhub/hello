@@ -80,23 +80,20 @@ ul,li {
     border: 2px solid;
 }
 
-.boxs4 {
-    background-color: black;
-    width: 5px;
-    height: 20px;
-    border-radius: 5px 0px 0px 5px
-}
-
 .boxs5 {
     background-color: black;
-    width: 5px;
+    width: 8px;
     height: 25px;
-    border-radius: 10px 0px 0px 10px;
+    border-radius: 15px 0px 0px 15px;
+    margin-left: 400px;
+    margin-top: -500px;
 }
 
 .boxs6 {
     background-color: black;
-    width: 5px;
+    width: 8px;
     height: 25px;
-    border-radius:10px 0px 0px 10px
+    border-radius:15px 0px 0px 15px;
+    margin-left: 400px;
+    margin-top: 10px;
 }
